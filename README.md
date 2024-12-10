@@ -1,4 +1,4 @@
-# mathsVJ_project
+# mathsVJ Lab3 + project
 
 This repos implements a template for the 2023 MATHSII project.
 
@@ -20,4 +20,6 @@ python3 -m pip install reqs.txt
 '''
 
 
-## Deadline Jan 29th 2024 23:45h
+## Project deadline Jan XXth 2025 23:45h
+
+## Lab3 deadline Dec 19th 2024 23:45h
